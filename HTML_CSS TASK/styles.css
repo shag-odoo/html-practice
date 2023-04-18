@@ -1,0 +1,60 @@
+.main-div{
+    display: flex;
+    /* background-color: antiquewhite; */
+    background-color: bisque;
+    padding: 1%;
+}
+
+body{
+    font-size: 20px;
+}
+
+.image{
+    /* background-color: black;  */
+    position: absolute;
+    right: 0;
+    margin-right: 35px;
+    margin-top: 2%;
+
+}
+
+.img_specs{
+    height: 270px;
+}
+
+.form{
+    font-size: 30px;
+}
+
+.form-main{
+    background-color: bisque;
+    padding: 1%;
+}
+
+.container{
+    /* height: 600px; */
+    border: 2 px solid black;
+}
+
+.education-main{
+    display: flex;
+    background-color: chocolate;
+    padding: 1%;
+}
+
+.education{
+    margin-right: 20px;
+    width: 50%;
+}
+
+.intro{
+    margin-left: 40px;
+    width:50%;
+   
+}
+
+.myself{
+    /* height:25px; */
+    /* width: 80%; */
+}
+
